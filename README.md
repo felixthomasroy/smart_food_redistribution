@@ -20,18 +20,6 @@ An end-to-end sustainable ecosystem combining IoT hardware sensors (Load cell & 
 - **Libraries:** `firebase_database`, `geolocator`, `url_launcher`
 
 ---
-## 📱 App Screenshots
-
-### 1. Home Page
-![Home Page](https://raw.githubusercontent.com/felixthomasroy/smart_food_redistribution/main/assets/home_page.png)
-
-### 2. Donor Dashboard
-![Donor Dashboard](https://raw.githubusercontent.com/felixthomasroy/smart_food_redistribution/main/assets/donor_page.png)
-
-### 3. NGO Dashboard
-![NGO Dashboard](https://raw.githubusercontent.com/felixthomasroy/smart_food_redistribution/main/assets/ngo_page.png)
-
----
 
 ## ⚙️ Getting Started & Installation
 
