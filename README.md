@@ -26,6 +26,7 @@ An end-to-end sustainable ecosystem combining IoT hardware sensors (Load cell & 
 ### 1. Clone the Repository and run inside chrome
 ```bash
 git clone [https://github.com/felixthomasroy/smart_food_redistribution.git](https://github.com/felixthomasroy/smart_food_redistribution.git)
-cd smart-food-redistribution
+cd smart_food_redistribution
+flutter pub get
 flutter run -d chrome
 ## needs flutter sdk and flutter and dart extensions installed for running
